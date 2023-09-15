@@ -1,0 +1,42 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: aliceblue;
+}
+.link-button{
+    display: inline-block;
+    margin: 0 30px 0 30px;
+    font-size: 28px;
+}
+.logo{
+        
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: center;
+}
+    
+.main-body{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    background-image: url(https://img.freepik.com/free-vector/hand-drawn-mushroom-pattern_23-2148897081.jpg);
+}
+    
+footer{
+    display: flex;
+    justify-content: center;
+}
+    
+body{
+    margin:0;
+}
+head{
+    background-color: black;
+}
