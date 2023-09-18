@@ -8,13 +8,11 @@
     display: inline-block;
     margin: 0 70px 0 70px;
     font-size: 28px;
-    
 }
-.logo{
-        
+.logo{   
     font-size: 20px;
     margin-top: 15px;
-    text-align: center;
+    margin-left: 10em;
 }
     
 .main-body{
@@ -31,21 +29,28 @@
     background-size: 100%;
     background-image: url(hand-drawn-mushroom-pattern_23-2148897081.avif);
 }
-    
-footer{
+.footer-content{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
 }
-    
+.social-icons {
+    display: flex;
+    gap: 10px;
+}   
 body{
     margin:0;
 }
 head{
     background-color: black;
     display: flex;
+    text-align: center;
 }
 ol{
     margin: 2em 2em 2em 0em;
     font-family: sans-serif;
     font-style: italic;
+    justify-content: center;
+    font-size: x-large;
+    
 }
