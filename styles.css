@@ -46,11 +46,3 @@ head{
     display: flex;
     text-align: center;
 }
-ol{
-    margin: 2em 2em 2em 0em;
-    font-family: sans-serif;
-    font-style: italic;
-    justify-content: center;
-    font-size: x-large;
-    
-}
