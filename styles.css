@@ -46,3 +46,10 @@ head{
     display: flex;
     text-align: center;
 }
+img{
+    height: 25vh;
+    width: 25vh;
+}
+ul {
+    list-style-type: none;
+  }
